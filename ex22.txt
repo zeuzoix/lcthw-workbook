@@ -1,0 +1,44 @@
+print           prints some text
+"               Double quotes starts and ends text line
+'               Single quote can also be used to start and end a text line
+,               With print used to separate some text from a value
++               Symbol used to add
+-               Symbol used to subtract
+%               Symbol used to find the remainder
+/               Symbol used to divide
+*               Symbol used to multiply
+>               Symbol used to compare if the first number is greater
+>=              Symbol used to compare if the first number is greater or equal to
+<               Symbol used to compare if the first number is lesser
+<=              Symbol used to compare if the first number is lesser or equal to
+=               Symbol used to assign a value to a variable
+%s              Symbol used as a format specifier for a string
+%d              Symbol used as a format specifier for an integer
+%               Symbol when used after a string specifies the variables to be inserted into a string
+(               Symbol used to group some variables together
+)               Symbol used to group some variables together
+"""             Symbol used to print a bunch of text
+\t              Symbol to insert a tab
+\n              Symbol to insert a newline
+\\              Symbol to escape a backslash
+\`              Symbol to escape a single quote
+\"              Symbol to escape a double quote
+\a              ASCII bell
+\b              ASCII Backspace
+\f              ASCII form feed
+\n              ASCII line feed
+\r              Carriage return
+\t              Horizontal tab
+\uxxxx          Character with 16-bit hex value
+\Uxxxxxxxx      Character with 32-bit hex value
+\v              ASCII vertical tab (VT)
+\ooo            
+from            Used to define a package
+import          Used to import a definition
+raw_input       Function to get input from a user
+argv            Function to provide command line arguments
+open            Function to open a file and give a handle to the file
+read            Function to read a file
+truncate        Function to truncate a file
+write           Function to write text to a file
+close           Function to close a file handle
